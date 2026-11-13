@@ -1,0 +1,35 @@
+speaker_id,session_id,speaker_name,company,session_title
+6a466f25d9d6a648605c2182,6876298ac0d5c749af6facba,Aaditya Bhat,OpenAI,Context: Missing piece in agentic workflows
+6acb67f4e9694895c512fe79,6891e5207ee66cd00792729d,Alex Bovee,C1.ai,Panel | Giving agents more autonomy without losing control
+6a465814d9d6a648605c0a59,68753e24c0d5c749af6d7f83,Ayon Gon,Microsoft,"Panel | The new evaluation stack: Measuring reasoning, workflow quality, and real-world performance"
+6acf9c8d628926083549ebc2,6ac7a11d6289260835489845,Ben Bergerson,Blitzy,Beyond the SDLC: Rethinking software development with AI
+6aba7850a5b9ab478aae51e2,68753e70c0d5c749af6d805e,Buddhiraj Chapalgaonkar,meshIQ,From vision to action: How governed agentic AI actually solves real world problems
+6a15b4e04518e4b0731d6262,68762a9fc0d5c749af6fafc1,Christopher Nuland,Red Hat,Managing the Information Trust Barrier in the Age of Intelligent Routing
+6acce6c07ae72e5d6fb7b482,68753e24c0d5c749af6d7f83,Francisco Garcia,Shopify,"Panel | The new evaluation stack: Measuring reasoning, workflow quality, and real-world performance"
+6a3bffcb135201e58bc7a524,68f76116a123c5906bb1c7b2,Guillermo Mosse Nusbaum,Wayfair,Accelerating R&D with AI
+6ad739f5af8e388c8621fdc7,6a46952fd9d6a648605c498e,Hardik Dave,CVS Health,Panel | Building and deploying AI agents in regulated environments
+6a429a39d9d6a6486057cabb,68753ef6c0d5c749af6d825c,Jason Bouska,Microsoft,Panel | Why do agent systems break in production? The gap between design and reality
+6a4293a9d9d6a6486057c533,68762b0d8c17d96dd8285999,Jeff Singer,DraftKings,Context is the moat: What DraftKings learned betting on agentic coding
+6a3c0174135201e58bc7a610,68753d6dc0d5c749af6d7d63,Joseph Thangraj,Sanofi,Panel | From GenAI to autonomous workflows: how teams are evolving their AI systems
+686858fa8c17d96dd80a6ee5,6a46999ed9d6a648605c54e9,Kishore Aradhya,Advisor360,Fireside | One model or many: How teams are architecting for reliability at scale
+6adb69bb0f67f0ecacc3f798,68f9f41dc73a4a03d1183dc1,Michael Mccarter,Blitzy,Beyond Detection: Securing the Enterprise Software Estate at Scale
+6acca5e27ae72e5d6fb79e8a,6ac79f25e9694895c51270d3,Neeraj Deshmukh,Blitzy,Master complexity: Build without limits
+64ef9d6ee9711cbb668582db,6891e5207ee66cd00792729d,Nitin Verma,The Mutual Group,Panel | Giving agents more autonomy without losing control
+6a465880d9d6a648605c0a6e,68f76116a123c5906bb1c7b2,Omer Lang,Wayfair,Accelerating R&D with AI
+6a675ec27fdf4ddf555f9218,6a46952fd9d6a648605c498e,Patrick Falvey,OpenAI,Panel | Building and deploying AI agents in regulated environments
+6a442947d9d6a6486059d042,6a46999ed9d6a648605c54e9,Peter Yu,AWS,Fireside | One model or many: How teams are architecting for reliability at scale
+69403d0cc908a5b575f50b07,68753ef6c0d5c749af6d825c,Prasanna Palanikumar,ADP,Panel | Why do agent systems break in production? The gap between design and reality
+6ad75049af8e388c8622095b,68753e24c0d5c749af6d7f83,Priyanka Pande,Capital One,"Panel | The new evaluation stack: Measuring reasoning, workflow quality, and real-world performance"
+6a42965bd9d6a6486057c86a,68f911cbc73a4a03d115fc92,Pushpjeet Shrivastava,,Guardrails in the wild: Deploying agentic AI safely in regulated financial infrastructure
+6a4cf2f46fca2b8db2e62af4,68753d6dc0d5c749af6d7d63,Rahman Gahramanov,Amazon,Panel | From GenAI to autonomous workflows: how teams are evolving their AI systems
+6a4d05076fca2b8db2e631e2,6a4d1c7b6fca2b8db2e63fb9,Sarah Bird,Microsoft,The next frontier of AI is trust
+6a43c5d4d9d6a648605968ab,6891e5207ee66cd00792729d,Shovon Sengupta,,Panel | Giving agents more autonomy without losing control
+6a6733887fdf4ddf555f5972,6a46952fd9d6a648605c498e,Shridhar Pathak,Moderna,Panel | Building and deploying AI agents in regulated environments
+6ad7445caf8e388c862202ec,68753e93c0d5c749af6d80f8,Siby Alappatt,Instacart,The Racecar in the Jungle: Lessons from AI-Powered Engineering at Instacart
+6a3c0117135201e58bc7a5ec,68753d6dc0d5c749af6d7d63,Subrata Das,Humana,Panel | From GenAI to autonomous workflows: how teams are evolving their AI systems
+6a4297c6d9d6a6486057c9ad,68753ef6c0d5c749af6d825c,Sunanda Parthasarathy,DICK's Sporting Goods,Panel | Why do agent systems break in production? The gap between design and reality
+6ab50b6aa5b9ab478aad8633,6a468b0fd9d6a648605c3e50,Thanh Hong,Kaltura,Conversation as architecture: Building adaptive agentic user journeys
+6accdeffe9694895c51340b7,68762ac88c17d96dd828580b,Udara Gunawardena,Backblaze,Compute moved. Your data didn’t: The hidden tax on feeding GPUs across clouds
+69de19fe940d535dcd5a254f,6902c7bec73a4a03d1311bc9,Vanchhit Khare,M&T Bank,Workshop |  Your AI forgets everything. Mine doesn't.
+6abe3427a8c1752996fc58dd,6a46952fd9d6a648605c498e,Zhongping Gao,Edelman Financial Engines,Panel | Building and deploying AI agents in regulated environments
+6acce2f7e9694895c5134111,68753d08c0d5c749af6d7bbf,Zuzana Matevossian,Lovable,"The Floodgate: when a company ships 1,000 apps in six month"

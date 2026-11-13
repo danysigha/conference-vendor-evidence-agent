@@ -1,0 +1,219 @@
+session_id,title,track,format,date,start_time,end_time,duration_minutes,description,speaker_names,speaker_companies,source_url,source_checked_at
+6876142e8c17d96dd82814b7,Registration & welcome breakfast,Networking opportunities,Session,2026-10-29,08:00,08:50,50,"Start the summit with registration and a welcome breakfast - a chance to connect with fellow attendees, meet industry leaders, and set the tone for a day packed with ideas, conversations, and collaboration.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6a4ce6096fca2b8db2e623a9,Welcome to AIAI Boston,Headliners Stage,Session,2026-10-29,08:55,09:00,5,"A warm welcome to the summit by the day's MC, and join early for the summit ice breaker.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6a4d1c7b6fca2b8db2e63fb9,The next frontier of AI is trust,Headliners Stage,Session,2026-10-29,09:00,09:30,30,"As AI becomes embedded across the enterprise, trust is emerging as the key differentiator between experimentation and scale.
+
+This session explores how leading organizations are building secure, transparent, and governed AI systems that users can rely on.
+
+Learn the practical strategies for balancing innovation with accountability.",Sarah Bird,Microsoft,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6ac7a11d6289260835489845,Beyond the SDLC: Rethinking software development with AI,Headliners Stage,Session,2026-10-29,09:30,10:00,30,"The software lifecycle was built around a human limit.
+
+People can only hold so much of a system in their heads, so work gets split into tickets, handoffs, and sign-offs. AI coding tools speed up each step but leave that structure in place.
+
+This session shows how a system with deep codebase understanding turns a business requirement into an epic, a technical design, and validated code. The bottleneck then moves from engineering capacity to how fast the business can decide what to build. We call this operating model the Agentic PDLC.
+
+You’ll leave with a clear view of how product and engineering roles, team structure, and process change when development runs at epic scale.",Ben Bergerson,Blitzy,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68762a9fc0d5c749af6fafc1,Managing the Information Trust Barrier in the Age of Intelligent Routing,Headliners Stage,Session,2026-10-29,10:00,10:30,30,"Intelligent routers can route effectively between local models and SaaS solutions like OpenAI. They decide based on context like cost, but cost can be the wrong axis for data governance. ""What is the expected bonus this year for John Doe when he has a salary of $100,000?"" is structurally trivial, so it routes externally to a cheap model, and the data is gone before any policy engine sees it. Cost-optimized routing is, by default, a data exfiltration path.
+
+
+This session presents a layered trust barrier from three components with separated responsibilities: llm-d-sc classifies prompts on two orthogonal axes complexity and sensitivity on CPU in milliseconds. Praxis is the proxy where policy lives, applying the routing matrix as the product of both axes and owning the egress gate utilizing guardrails like NVIDIA Nemo guardrails.
+
+
+I will demo how these technologies work together to secure semantic routing in a hybrid or multi-cloud configuration with a multi-tiered approach.",Christopher Nuland,Red Hat,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68763a418c17d96dd828809f,Coffee break,Networking opportunities,Session,2026-10-29,10:15,10:45,30,"Take a well-timed break to recharge with coffee and refreshments, as the Headliners Stage breaks out into 3 simultaneous summit tracks:
+
+→ Generative AI Summit
+→ Chief AI Officer Summit
+→ Agentic AI Summit",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6ac79f25e9694895c51270d3,Master complexity: Build without limits,Agentic AI Summit,Session,2026-10-29,11:00,11:30,30,"AI coding tools write clean syntax but still break enterprise systems because they don't know about the fourteen other places a piece of logic is used.
+
+Bigger context windows don't fix this. Context is serial, and code is relational. This session shows how a knowledge graph gives AI agents the right context just in time, even in codebases with tens of millions of lines.
+
+You'll leave with a practical architecture for grounding AI agents in verified code relationships instead of plausible guesses.",Neeraj Deshmukh,Blitzy,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753d08c0d5c749af6d7bbf,"The Floodgate: when a company ships 1,000 apps in six month",Generative AI Summit,Session,2026-10-29,11:00,11:30,30,"One company can now ship a thousand apps in six months, and every app brings its own data, credentials, access rules and upkeep that nobody planned for. This talk comes from a solutions architect who works with enterprise teams as they hit exactly this.
+
+This talk will cover what breaks first when AI-generated apps multiply: ownership, security review, exposed personal data, leaked credentials and abandoned apps that keep running. It will also cover the controls that hold up at that volume, and how to keep shipping fast without losing track of what is live.
+
+Key Takeaways:
+→ What breaks first when AI-generated apps multiply, from unclear ownership to exposed data and credentials
+→ Which controls matter at that scale: automated security scanning, publishing permissions, shared connectors and cleanup of unused apps
+→ How to let teams keep shipping without losing track of what is running and who owns it",Zuzana Matevossian,Lovable,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6a6878ffa95e1a593cde0435,Breakout roundtable | One control plane for every agent,Workshops & Roundtables,Roundtable,2026-10-29,11:00,11:30,30,"Workforce agents, customer-facing agents, partner agents, and agents nobody asked for. 
+
+Most enterprises manage them in pieces, with a different tool and a different blind spot for each one. 
+
+Jax Painter will explore a single control plane that works across whichever IdP and cloud you already run: a live registry of every agent, one control point for everything they can reach, and authorization that evaluates what an agent is trying to do rather than just who it is.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6a468b0fd9d6a648605c3e50,Conversation as architecture: Building adaptive agentic user journeys,Agentic AI Summit,Session,2026-10-29,11:30,12:00,30,"Conversation is becoming a primary way we interact with software, but most digital journeys were designed for a different interaction model. 
+
+Pages, interfaces, content paths, and workflows can be dynamic and personalized, yet the user still largely navigates through options the system has made available in advance. Agentic AI introduces a new possibility: what someone asks, reveals, and does can actively shape what the experience shows, explains, generates, and offers next. 
+
+In this session, Kaltura's Thanh Hong will explore the shift from predefined digital journeys to experiences that adapt as people interact - where conversation reveals intent, agents decide what to show next, and relevant content helps people take action.
+
+We’ll discuss:
+
+→  Why conversational interaction calls for a different kind of digital journey
+→ How questions, context, and behavior can shape the content and interface in real time
+→ How agents choose the next explanation, experience, or action as the journey unfolds
+→ What this means for organizations: more relevant content experiences, clearer intent signals, and journeys that help people move toward action.",Thanh Hong,Kaltura,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68762ac88c17d96dd828580b,Compute moved. Your data didn’t: The hidden tax on feeding GPUs across clouds,Generative AI Summit,Session,2026-10-29,11:30,12:00,30,"GPU capacity now lives wherever you can get it: hyperscalers, neoclouds, specialty providers, on-prem clusters. Your training data mostly stayed where it was. Every epoch, fine-tune, experiment sweep, and synthetic data run pays a hidden tax to close that distance, and most AI budgets don’t have a line for it. 
+
+The tax shows up three ways. The toll: egress, cross-region sync, duplicate copies, and request fees on billions of small files. The wait: GPUs sitting idle because storage was sized for terabytes, not throughput, and on a synchronous training job one slow data loader stalls the whole cluster. The lock: regulation that makes leaving a cloud cheaper, while multi-cloud, in-parallel use can still be charged. 
+
+Drawing on field work with AI-native companies and GPU cloud providers, this session puts real numbers on each tax, shows how to size storage for GB/s per GPU, and walks through the patterns that keep compute portable: neutral storage, caching next to the GPUs, throughput-friendly formats, and contract terms that hold up at scale. It also covers when the right answer is to move nothing at all.",Udara Gunawardena,Backblaze,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6ac7b524e9694895c5127691,Breakout roundtable | Escaping pilot purgatory: Turning AI ambition into rioritized production value,Workshops & Roundtables,Roundtable,2026-10-29,11:30,12:00,30,"AI leaders face intense pressure to ""do AI,"" often resulting in disconnected pilots that never reach production. While launching a proof-of-concept is fast, taking an application to full production, or knowing when to kill it, is where enterprise transformation stalls. 
+
+Bridging the PoC-to-production gap requires escaping creative AI chaos and establishing a disciplined prioritization framework. In this executive roundtable, peers will share practical strategies to rank, gate, and scale high-impact AI. 
+
+Key topics include evaluating technical difficulty against measurable impact, mapping data requirements early, and applying gate checks across compliance, data readiness, and team capacity without choking innovation velocity. 
+
+Join us to discuss how top executives align stakeholders around shared success metrics to ensure AI delivers true bottom-line impact.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6891e5207ee66cd00792729d,Panel | Giving agents more autonomy without losing control,Agentic AI Summit,Panel,2026-10-29,12:00,12:30,30,"The promise of AI agents lies in their ability to reason, plan, and take action with minimal human intervention but greater autonomy also introduces greater risk. 
+
+As organizations move beyond copilots to production-grade agentic systems, the challenge is no longer can agents act independently? It's how much autonomy can they be trusted with?
+
+This panel brings together engineering and AI leaders deploying autonomous systems in production to explore the trade-offs between speed, control, and reliability. 
+
+From human-in-the-loop workflows and approval gates to evaluation frameworks, observability, governance, and safety guardrails, we'll discuss how leading organizations are giving agents greater responsibility without sacrificing trust, compliance, or operational resilience.",Nitin Verma; Shovon Sengupta; Alex Bovee,The Mutual Group; C1.ai,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68f9f41dc73a4a03d1183dc1,Beyond Detection: Securing the Enterprise Software Estate at Scale,Generative AI Summit,Session,2026-10-29,12:00,12:30,30,"Security teams have gotten good at finding vulnerabilities. Closing them is the problem. The median critical vulnerability takes 43 days to fix, and only 1 in 4 on CISA's actively exploited list is fully remediated. This session covers what remediation needs to work at enterprise scale. You'll leave with five questions to score any remediation tool or workflow: codebase context, reachability, release awareness, approved sign-off, and proof.",Michael Mccarter,Blitzy,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6a46952fd9d6a648605c498e,Panel | Building and deploying AI agents in regulated environments,Agentic AI Summit,Panel,2026-10-29,12:30,13:00,30,"As AI agents become more capable, regulated industries face a unique challenge: how do you unlock the benefits of autonomous systems without compromising security, compliance, or governance?
+
+This panel brings together leaders deploying AI in sectors such as finance, healthcare, government, and insurance to discuss what it takes to build production-ready agents in highly regulated environments. 
+
+From data privacy and model governance to human oversight, auditability, and evolving regulation, hear practical lessons on balancing innovation with risk while delivering AI systems that organizations and regulators can trust.",Shridhar Pathak; Patrick Falvey; Zhongping Gao; Hardik Dave,Moderna; OpenAI; Edelman Financial Engines; CVS Health,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753d6dc0d5c749af6d7d63,Panel | From GenAI to autonomous workflows: how teams are evolving their AI systems,Generative AI Summit,Panel,2026-10-29,12:30,13:00,30,"A generative output that a person reads is easy to forgive. One that feeds the next step in a workflow is not.
+
+Most generative stacks were designed for one-off results: a prompt, a retrieval step, and an answer someone checks. Once those outputs start feeding other steps and triggering real actions, the prompting, retrieval and evaluation choices that worked in isolation start to break. So what has to change in the stack before it can carry real work?
+
+This session brings together practitioners who are rebuilding their generative stack around workflows. They'll cover where their original design stopped holding up and what they changed.
+
+Through real examples and open disagreement, the panel will get into how prompting, retrieval and evaluation shift when outputs become dependencies, and how they decide when a system is ready to act without a person checking every step.
+
+Key takeaways:
+
+→ Where stacks built for one-off results break once outputs feed other steps
+
+→ How to design prompting, retrieval and evaluation for outputs that trigger actions
+
+→ What to put in place before letting a system act on its own
+
+The questions still line up with the new takeaways:",Subrata Das; Joseph Thangraj; Rahman Gahramanov,Humana; Sanofi; Amazon,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68763a788c17d96dd8288130,Lunch break,Networking opportunities,Session,2026-10-29,13:00,14:00,60,"Enjoy the provided lunch, offering a chance to recharge and network with fellow attendees.
+
+Share insights, discuss key takeaways from the morning sessions, and fuel up for the afternoon’s sessions.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68762b0d8c17d96dd8285999,Context is the moat: What DraftKings learned betting on agentic coding,Agentic AI Summit,Session,2026-10-29,14:00,14:30,30,"DraftKings has been betting on agentic coding since 2024. 
+
+It started with an agent that reviews every pull request, and now includes governed coding agents on every engineer's laptop, remote coding agents, and shared skills across the product development lifecycle. Each bet has taught us the same lesson: the model was never the bottleneck. What separated a useful agent from an annoying one was how much of our world it could see, and how little work a human had to do to show it.
+
+This talk covers what we built, what we should not have built, and how we took agentic coding from pilot to the organization in a regulated, public company.
+
+Key takeaways:
+
+→ Don't build context management: Our chunking, diff-to-source mapping and custom review scoring were all made obsolete by someone else's release. Adopt an agent framework, and spend your engineering on wiring it into your own systems.
+
+→ Your context surface is your advantage: Connecting agents to Jira, Confluence, code search, the data warehouse, observability, Figma and Slack turns a fast first-day engineer into one who knows why your codebase looks the way it does.
+
+→ Distribution is the product: Treat agent tooling as a product with releases, an owner and a bug queue. Ship early into a public channel and let that feedback be your backlog.
+
+→ Conservative defaults speed you up: Least privilege, a human in the loop on sensitive systems, and telemetry from day one meant one central security review instead of one per team.",Jeff Singer,DraftKings,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753e93c0d5c749af6d80f8,The Racecar in the Jungle: Lessons from AI-Powered Engineering at Instacart,Generative AI Summit,Session,2026-10-29,14:00,14:30,30,"Handing every engineer an AI coding agent is the easy part. Instacart runs one of the most complex B2C and B2B platforms in commerce, connecting customers, shoppers, retailers and brands across more than 2,200 retail banners and about 100,000 stores. Once our engineers had a racecar, we learned the real work was building the road. 
+
+This talk goes deep on Blueberry, our AI SRE, which investigates every production alert before a human picks it up. It also covers how we're re-architecting our platform so agents can build faster and more safely, with humans in control at every step.
+
+Key takeaways:
+
+→ Start where vigilance beats judgment. Our first attempt, pointing AI at entire incidents, was slow and error-prone. Starting from a single alert, with specific context, is what made our AI SRE useful.
+
+→ Institutional memory beats a bigger model. Accuracy came from our own incident history and the runbooks and skills each team teaches the agent, not from a newer model.
+
+→ Match human oversight to the risk. Agents investigate on their own, propose production changes for human approval, and leave novel, high-stakes decisions to people. Autonomy grows only as it's earned.
+
+→ Humans draw the boundaries. Clear service boundaries, contracts and review loops let agents take on rewrites we once called impossible.
+
+→ Not less AI, better AI. Route each task to the right model, and give every developer visibility into their own usage",Siby Alappatt,Instacart,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753e70c0d5c749af6d805e,From vision to action: How governed agentic AI actually solves real world problems,Agentic AI Summit,Session,2026-10-29,14:30,15:00,30,"Everyone is excited about how capable AI agents are becoming. But the real challenge ahead isn't intelligence, it is underlying data, and more importantly, the governance around AI Agents. As AI moves from answering questions to taking actions, companies run into a new set of questions fast: can we trust an autonomous decision, can we explain why it happened, where does a human need to be in the loop, and how do we enforce boundaries once agents are operating at scale, not just in a pilot.
+ 
+These are important question for one AI Agent. meshIQ industry analysts estimate average number of AI agents to be in thousands for a mid-size corporation by the end of 2027. 
+ 
+This matters now because models themselves are becoming commoditized. As LLMs get faster, cheaper, and easier to swap, competitive advantage stops coming from the model and starts coming from what that model is safely allowed to do once it's connected to real enterprise systems. 
+
+An agent is only as useful as the corporate context it can reach, and enterprise data is fragmented across CRMs, ERPs, tickets, logs, and legacy systems, middleware among them. In that world, trusted context becomes the moat, and governance is what makes that context safe to hand an agent in the first place.",Buddhiraj Chapalgaonkar,meshIQ,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68f76116a123c5906bb1c7b2,Accelerating R&D with AI,Generative AI Summit,Session,2026-10-29,14:30,15:00,30,"Before expanding from a low-volume pilot to the entire catalog, Wayfair scientists needed to significantly reduce the API costs of the new LLM-based product information validation system.
+
+
+Using AI-agents, the science team supercharged the pace of experimentation, running hundreds of experiments over two days, exercising 40+ unique design levers, most of which were newly thought of and implemented. The winning configuration reduced cost by 95%, exceeding expectations. The other, equally important, big win was that an effort that would have traditionally required 2-months of planning and execution, with many ideas left untried, was compressed into 2 days with no ideas left unexplored.
+
+
+Three months later, with another AI-accelerated research push, the team produced a further 95% cost reduction on the same product information validation system.
+
+
+This framework is gaining traction at Wayfair and has been applied to more research problems. Science teams are spending their time doing the fun stuff – whiteboarding, coming up with interesting ideas – and having AI agents do the grunt work.
+
+
+After each application of our AI-accelerated research framework, we have gathered our learnings and improved our practices. For example, for traditional ML research, you establish separate development and evaluation sets. In the era of agentic coding, you’ll want to keep the evaluation set well hidden behind a metric reporting API, to avoid reward-hacking-induced overfitting.",Guillermo Mosse Nusbaum; Omer Lang,Wayfair; Wayfair,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6876298ac0d5c749af6facba,Context: Missing piece in agentic workflows,Agentic AI Summit,Session,2026-10-29,15:00,15:30,30,"Agentic AI systems can only reason, retrieve, and act as well as the data layer beneath them allows.
+
+In enterprise environments, agents often fail not because the model is weak, but because the data is incomplete, poorly governed, out of context, or difficult to audit.
+
+This session explores how teams can build the data foundations needed for reliable agentic AI, covering pipelines, permissions, metadata, lineage, governance, and feedback loops.
+
+Key takeaways:
+
+→Why agent failures often start in the data layer.
+→What production-ready agents need from enterprise data systems.
+→ How governance, lineage, and permissions improve agent reliability.
+→ How to identify weak points before deploying agents into real workflows.",Aaditya Bhat,OpenAI,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6902c7bec73a4a03d1311bc9,Workshop |  Your AI forgets everything. Mine doesn't.,Generative AI Summit,Workshop,2026-10-29,15:00,15:15,15,"Every AI session starts from zero. You close the tab, open a new one, and the model has no idea what you were working on or what you decided last time. Most people just live with this. Vanchittt fixed it.
+
+He wrote two small scripts. One runs when a session ends and saves a file with everything that matters: what was built, what was decided, and what is still open. The second script runs when a session starts and feeds that file to the model before anything else is typed. The AI already knows where the last session left off. No catching it up. No repeating yourself.
+
+In this 30-minute workshop, Vanchittt will walk attendees through both scripts, show what the saved file looks like, and help them set it up in their own environment. Attendees will leave with something they can actually use the same day.",Vanchhit Khare,M&T Bank,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753f0dc0d5c749af6d8331,Breakout workshop |  Your AI forgets everything. Mine doesn't.,Workshops & Roundtables,Workshop,2026-10-29,15:00,15:30,30,"Every AI session starts from zero. You close the tab, open a new one, and the model has no idea what you were working on or what you decided last time. Most people just live with this. I fixed it.
+
+I wrote two small scripts. One runs when a session ends and saves a file with everything that matters: what you built, what you decided, what is still open. 
+
+The second script runs when a session starts and feeds that file to the model before you type anything. The AI already knows where you left off. No catching it up. No repeating yourself.
+
+In this 30-minute workshop I will walk you through both scripts, show you what the saved file looks like, and help you set this up in your own environment. 
+
+You will leave with something you can actually use the same day.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68763a918c17d96dd828818a,Coffee break,Networking opportunities,Session,2026-10-29,15:30,16:00,30,"A final break and chance to refocus with a coffee, before heading into the final few sessions of the day.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68f911cbc73a4a03d115fc92,Guardrails in the wild: Deploying agentic AI safely in regulated financial infrastructure,Agentic AI Summit,Session,2026-10-29,16:00,16:30,30,"As teams race to build increasingly autonomous agents, they face a new set of engineering challenges: unreliable outputs, fragmented tooling, poor observability, escalating costs, and the difficulty of integrating AI into real business workflows. 
+
+The result is that many promising projects stall long before they reach enterprise scale.
+
+This keynote explores what separates successful AI deployments from the pilots that never make it into production. Drawing on practical lessons from building and operating AI systems, we'll cover the architectural decisions, engineering practices, and operational guardrails required to deploy reliable, scalable AI agents that businesses can trust.
+
+Key takeaways: 
+
+→ Why so many AI initiatives fail to move beyond proof of concept.
+→ The engineering patterns behind reliable, production-ready AI systems.
+→ How leading organizations are balancing autonomy, governance, cost, and performance to deliver measurable business outcomes.",Pushpjeet Shrivastava,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753e24c0d5c749af6d7f83,"Panel | The new evaluation stack: Measuring reasoning, workflow quality, and real-world performance",Generative AI Summit,Panel,2026-10-29,16:00,16:30,30,"How do you know your AI system is actually working?
+
+Not in a test environment. Not on a benchmark. In production, across multi-step tasks, where failures don't always throw an error and drift doesn't always announce itself. Most existing tooling wasn't built for this problem.
+This session gets into how engineering teams are building eval infrastructure for workflow-based AI: catching silent failures, measuring reasoning quality across decision chains, and closing the gap between controlled evals and real-world performance.
+
+Key takeaways:
+
+- How to measure reasoning quality across multi-step workflows, not just final output accuracy
+- The patterns that signal silent failure or drift before they surface as visible errors
+- What a production-grade eval stack looks like when you're evaluating a workflow, not a single model",Ayon Gon; Francisco Garcia; Priyanka Pande,Microsoft; Shopify; Capital One,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68753ef6c0d5c749af6d825c,Panel | Why do agent systems break in production? The gap between design and reality,Agentic AI Summit,Panel,2026-10-29,16:30,17:00,30,"While many organizations have proven what's possible with agentic AI, far fewer have solved the realities of deploying autonomous systems that can be trusted at scale.
+
+This panel brings together engineering leaders who have moved beyond prototypes to discuss the technical and operational challenges that emerge in production. 
+
+From orchestration failures and unreliable tool use to observability, evaluation, governance, and cost control, we'll explore why agent systems break in the real world and the engineering practices that keep them running.",Prasanna Palanikumar; Sunanda Parthasarathy; Jason Bouska,ADP; DICK's Sporting Goods; Microsoft,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+6a46999ed9d6a648605c54e9,Fireside | One model or many: How teams are architecting for reliability at scale,Generative AI Summit,Fireside,2026-10-29,16:30,17:00,30,"Every team building generative AI hits the same fork eventually: keep pushing one model to do everything, or start splitting the work across specialised components. Neither answer is obviously right, and the teams getting it wrong are finding out the expensive way.
+
+This session brings together practitioners who have landed on different sides of that decision, covering when compound architectures actually improve reliability and when they just add complexity and cost without a real payoff. Expect disagreement on where the line sits.
+
+What this session will cover:
+
+- When splitting a system into specialised components improves reliability, and when it doesn't
+- How teams are deciding between one capable model and several coordinated ones
+- The hidden costs of compound systems that don't show up until production
+- Real tradeoffs teams have made, including ones they'd reverse",Kishore Aradhya; Peter Yu,Advisor360; AWS,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68761eb28c17d96dd82835a6,Happy hour,Networking opportunities,Session,2026-10-29,17:00,18:00,60,"Whether you're deep in technical debates or simply enjoying a casual chat with new connections, this is the perfect opportunity to build relationships and continue conversations from the day.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13
+68783965c0d5c749af74f4bb,AI leaders' dinner: by invite only,Networking opportunities,Session,2026-10-29,18:30,21:00,150,"By invitation only.
+
+Continue the conversation with your senior peers around dinner, enjoying fine food, an exceptional drinks service, and insightful discussion.",,,https://world.aiacceleratorinstitute.com/location/boston/agenda,2026-11-13

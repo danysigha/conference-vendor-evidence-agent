@@ -1,0 +1,7 @@
+doc_id,file,conference_id,exhibitor_id,exhibitor_name,booth
+c1_ai,c1-ai.pdf,conference_2026,c1,C1.ai,
+promptql,promptql.pdf,conference_2026,promptql,PromptQL,
+merge_workforce,Ship_Ai.pdf,conference_2026,merge,Merge,
+omnitrust_halo,halo.pdf,conference_2026,omnitrust,OmniTrust,
+barndoor_gateway,barndoor.pdf,conference_2026,barndoor,Barndoor,
+omnitrust_agent_studio,Omni_Trust.pdf,conference_2026,omnitrust,OmniTrust,
